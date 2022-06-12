@@ -1,5 +1,8 @@
 ### Hi there 👋 I'm Santanu
 
+
+<h3 align="center">A passionate web developer from India</h3><br>
+
 <!--
 **santafg/santafg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +20,17 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **santanughosh28111998@gmail.com**
 
-<h3 align="center">A passionate web developer from India</h3><br>
+
 
 
 <p style="font-size: 1rem">
+        <img
+          src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651122498709/FQjch0sgd.png"
+          alt="nextjs"
+          width="20"
+          height="20"
+        />
+        &nbsp;
         <img
           src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
           alt="react"
