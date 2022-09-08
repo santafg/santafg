@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Santanu
 
 
-<h3 align="center">A passionate web developer from India</h3><br>
+<h3 align="center">A passionate software developer from India</h3><br>
 
 <!--
 **santafg/santafg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
