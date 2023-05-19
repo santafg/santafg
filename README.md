@@ -80,7 +80,7 @@ Here are some ideas to get you started:
         <a traget="_blank" href="https://www.linkedin.com/in/santanu-ghosh-27abb2213/">
         <img align="left" alt="Santanu's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
         </a>
-        <a traget="_blank" href="https://www.instagram.com/worshiper_of_light_yagami/">
+        <a traget="_blank" href="https://www.instagram.com/ig_santanu_ghosh/">
         <img align="left" alt="Santanu's instagram" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
         </a>
       </div>                                                                                                                 
