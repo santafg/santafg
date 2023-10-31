@@ -91,4 +91,4 @@ Here are some ideas to get you started:
 <p style = "align-items: center">_Focusing 🎯 on life, so will be a bit slow for a couple of weeks_</p>
 
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=santafg&show_icons=true&hide_border=true" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=santafg&show_icons=true&hide_border=true" />
