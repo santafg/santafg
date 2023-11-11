@@ -92,3 +92,4 @@ Here are some ideas to get you started:
 
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=santafg&show_icons=true&hide_border=true" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santafg&hide_progress=true" />
